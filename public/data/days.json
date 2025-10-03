@@ -30,5 +30,13 @@
     "inputTokens": 21685,
     "outputTokens": 59088,
     "cacheTokens": 3323115
+  },
+  {
+    "date": "2025-10-03",
+    "totalCost": 14.719207799999996,
+    "totalTokens": 22232928,
+    "inputTokens": 10291,
+    "outputTokens": 62572,
+    "cacheTokens": 2058474
   }
 ]

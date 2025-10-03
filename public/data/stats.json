@@ -1,35 +1,35 @@
 {
   "lifetime": {
-    "totalCost": 31.716501150000003,
-    "totalTokens": 42244288,
-    "averageCost": 7.929125287500001,
-    "averageTokens": 10561072,
-    "dayCount": 4
+    "totalCost": 46.43570895,
+    "totalTokens": 64477216,
+    "averageCost": 9.28714179,
+    "averageTokens": 12895443.2,
+    "dayCount": 5
   },
   "yearly": {
-    "totalCost": 31.716501150000003,
-    "totalTokens": 42244288,
-    "averageCost": 7.929125287500001,
-    "averageTokens": 10561072,
-    "dayCount": 4
+    "totalCost": 46.43570895,
+    "totalTokens": 64477216,
+    "averageCost": 9.28714179,
+    "averageTokens": 12895443.2,
+    "dayCount": 5
   },
   "monthly": {
-    "totalCost": 20.204642850000003,
-    "totalTokens": 26042510,
-    "averageCost": 20.204642850000003,
-    "averageTokens": 26042510,
-    "dayCount": 1
+    "totalCost": 34.92385065,
+    "totalTokens": 48275438,
+    "averageCost": 17.461925325,
+    "averageTokens": 24137719,
+    "dayCount": 2
   },
   "weekly": {
-    "totalCost": 31.716501150000003,
-    "totalTokens": 42244288,
-    "averageCost": 7.929125287500001,
-    "averageTokens": 10561072,
-    "dayCount": 4
+    "totalCost": 46.43570895,
+    "totalTokens": 64477216,
+    "averageCost": 9.28714179,
+    "averageTokens": 12895443.2,
+    "dayCount": 5
   },
   "daily": {
-    "totalCost": 7.929125287500001,
-    "totalTokens": 10561072
+    "totalCost": 9.28714179,
+    "totalTokens": 12895443.2
   },
   "highest": {
     "day": {
@@ -38,17 +38,17 @@
       "date": "2025-10-02"
     },
     "week": {
-      "totalCost": 30.479037,
-      "totalTokens": 40249784
+      "totalCost": 45.1982448,
+      "totalTokens": 62482712
     },
     "month": {
-      "totalCost": 20.204642850000003,
-      "totalTokens": 26042510
+      "totalCost": 34.92385065,
+      "totalTokens": 48275438
     }
   },
   "streaks": {
-    "currentStreak": 4,
-    "longestStreak": 4
+    "currentStreak": 5,
+    "longestStreak": 5
   },
-  "lastUpdated": "2025-10-03T03:40:04.716Z"
+  "lastUpdated": "2025-10-03T23:46:21.555Z"
 }
