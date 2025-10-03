@@ -1,10 +1,54 @@
 {
-  "lifetime": { "totalCost": 0, "totalTokens": 0, "averageCost": 0, "averageTokens": 0, "dayCount": 0 },
-  "yearly": { "totalCost": 0, "totalTokens": 0, "averageCost": 0, "averageTokens": 0, "dayCount": 0 },
-  "monthly": { "totalCost": 0, "totalTokens": 0, "averageCost": 0, "averageTokens": 0, "dayCount": 0 },
-  "weekly": { "totalCost": 0, "totalTokens": 0, "averageCost": 0, "averageTokens": 0, "dayCount": 0 },
-  "daily": { "totalCost": 0, "totalTokens": 0 },
-  "highest": { "day": { "totalCost": 0, "totalTokens": 0, "date": null }, "week": { "totalCost": 0, "totalTokens": 0 }, "month": { "totalCost": 0, "totalTokens": 0 } },
-  "streaks": { "currentStreak": 0, "longestStreak": 0 },
-  "lastUpdated": null
+  "lifetime": {
+    "totalCost": 31.716501150000003,
+    "totalTokens": 42244288,
+    "averageCost": 7.929125287500001,
+    "averageTokens": 10561072,
+    "dayCount": 4
+  },
+  "yearly": {
+    "totalCost": 31.716501150000003,
+    "totalTokens": 42244288,
+    "averageCost": 7.929125287500001,
+    "averageTokens": 10561072,
+    "dayCount": 4
+  },
+  "monthly": {
+    "totalCost": 20.204642850000003,
+    "totalTokens": 26042510,
+    "averageCost": 20.204642850000003,
+    "averageTokens": 26042510,
+    "dayCount": 1
+  },
+  "weekly": {
+    "totalCost": 31.716501150000003,
+    "totalTokens": 42244288,
+    "averageCost": 7.929125287500001,
+    "averageTokens": 10561072,
+    "dayCount": 4
+  },
+  "daily": {
+    "totalCost": 7.929125287500001,
+    "totalTokens": 10561072
+  },
+  "highest": {
+    "day": {
+      "totalCost": 20.204642850000003,
+      "totalTokens": 26042510,
+      "date": "2025-10-02"
+    },
+    "week": {
+      "totalCost": 30.479037,
+      "totalTokens": 40249784
+    },
+    "month": {
+      "totalCost": 20.204642850000003,
+      "totalTokens": 26042510
+    }
+  },
+  "streaks": {
+    "currentStreak": 4,
+    "longestStreak": 4
+  },
+  "lastUpdated": "2025-10-03T02:46:46.773Z"
 }
