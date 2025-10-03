@@ -1,5 +1,5 @@
 {
-  "name": "claude-usage-stats",
+  "name": "claude-code-stats-dashboard",
   "version": "2.0.0",
   "description": "Personal Claude Code usage analytics dashboard - GitHub Pages edition",
   "scripts": {

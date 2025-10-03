@@ -24,8 +24,8 @@ A self-hosted, single-user analytics dashboard for tracking your Claude Code usa
 
 ```bash
 # Fork this repo on GitHub, then:
-git clone https://github.com/YOUR_USERNAME/claude-usage-stats.git
-cd claude-usage-stats
+git clone https://github.com/YOUR_USERNAME/claude-code-stats-dashboard.git
+cd claude-code-stats-dashboard
 npm install
 ```
 
@@ -57,7 +57,7 @@ git commit -m "Add my usage stats"
 git push
 ```
 
-**That's it!** Your dashboard will be live at `https://YOUR_USERNAME.github.io/claude-usage-stats` in ~1 minute.
+**That's it!** Your dashboard will be live at `https://YOUR_USERNAME.github.io/claude-code-stats-dashboard` in ~1 minute.
 
 ## 📖 Detailed Setup
 
@@ -109,7 +109,7 @@ Set up a cron job:
 
 ```bash
 # Add to your crontab (crontab -e)
-0 23 * * * cd /path/to/claude-usage-stats && npm run upload && npm run deploy
+0 23 * * * cd /path/to/claude-code-stats-dashboard && npm run upload && npm run deploy
 ```
 
 This runs every day at 11 PM, updates your stats, and pushes to GitHub.
@@ -336,4 +336,4 @@ If you found this useful, give it a star on GitHub! ⭐
 
 **Made with ❤️ and Claude Code**
 
-Need help? [Open an issue](https://github.com/yourusername/claude-usage-stats/issues)
+Need help? [Open an issue](https://github.com/yourusername/claude-code-stats-dashboard/issues)
