@@ -16,7 +16,7 @@ window.CONFIG = {
     github: 'https://github.com/joshuabell',      // GitHub username (e.g., 'octocat')
     twitter: 'https://x.com/TwistedHardbody',     // Twitter handle (e.g., 'jack')
     linkedin: 'https://www.linkedin.com/in/ajoshuabell',    // Full LinkedIn URL (e.g., 'https://linkedin.com/in/username')
-    website: 'https://josh.ua'      // Personal website URL (e.g., 'https://example.com')
+    website: 'https://josh.ua/links'      // Personal website URL (e.g., 'https://example.com')
   },
 
   // Site Configuration
