@@ -336,8 +336,8 @@ section {
 }
 
 .heatmap-month {
-  min-width: fit-content;
-  padding-right: 0.5rem;
+  width: 15px;
+  flex-shrink: 0;
 }
 
 .heatmap-grid {
