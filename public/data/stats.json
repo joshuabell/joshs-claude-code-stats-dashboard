@@ -1,35 +1,35 @@
 {
   "lifetime": {
-    "totalCost": 51.7232853,
-    "totalTokens": 69703715,
-    "averageCost": 8.62054755,
-    "averageTokens": 11617285.833333334,
-    "dayCount": 6
+    "totalCost": 65.39399265,
+    "totalTokens": 85414111,
+    "averageCost": 8.17424908125,
+    "averageTokens": 10676763.875,
+    "dayCount": 8
   },
   "yearly": {
-    "totalCost": 51.7232853,
-    "totalTokens": 69703715,
-    "averageCost": 8.62054755,
-    "averageTokens": 11617285.833333334,
-    "dayCount": 6
+    "totalCost": 65.39399265,
+    "totalTokens": 85414111,
+    "averageCost": 8.17424908125,
+    "averageTokens": 10676763.875,
+    "dayCount": 8
   },
   "monthly": {
-    "totalCost": 40.211427,
-    "totalTokens": 53501937,
-    "averageCost": 13.403809,
-    "averageTokens": 17833979,
-    "dayCount": 3
+    "totalCost": 53.88213435,
+    "totalTokens": 69212333,
+    "averageCost": 10.77642687,
+    "averageTokens": 13842466.6,
+    "dayCount": 5
   },
   "weekly": {
-    "totalCost": 51.7232853,
-    "totalTokens": 69703715,
-    "averageCost": 8.62054755,
-    "averageTokens": 11617285.833333334,
-    "dayCount": 6
+    "totalCost": 13.670707349999995,
+    "totalTokens": 15710396,
+    "averageCost": 6.835353674999998,
+    "averageTokens": 7855198,
+    "dayCount": 2
   },
   "daily": {
-    "totalCost": 8.62054755,
-    "totalTokens": 11617285.833333334
+    "totalCost": 9.165218357142857,
+    "totalTokens": 11917086.714285715
   },
   "highest": {
     "day": {
@@ -38,17 +38,17 @@
       "date": "2025-10-02"
     },
     "week": {
-      "totalCost": 50.48582115,
-      "totalTokens": 67709211
+      "totalCost": 54.85311825,
+      "totalTokens": 74613352
     },
     "month": {
-      "totalCost": 40.211427,
-      "totalTokens": 53501937
+      "totalCost": 53.88213435,
+      "totalTokens": 69212333
     }
   },
   "streaks": {
-    "currentStreak": 6,
+    "currentStreak": 2,
     "longestStreak": 6
   },
-  "lastUpdated": "2025-10-05T03:24:36.248Z"
+  "lastUpdated": "2025-10-07T23:21:07.210Z"
 }
