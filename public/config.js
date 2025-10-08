@@ -7,7 +7,7 @@ window.CONFIG = {
   // User Profile Information
   userName: 'Joshua Bell',
   userEmail: 'hey@josh.ua',
-  userBio: 'I instinctively and without hesitation code software serving the human experience at scale.',
+  userBio: 'Analytics on my Claude Code usage.',
   userLocation: 'San Francisco, CA, USA',
   userTimezone: '',
 
