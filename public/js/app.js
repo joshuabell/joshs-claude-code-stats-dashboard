@@ -328,7 +328,7 @@ function populateHeatmap(days) {
     currentDate.setDate(currentDate.getDate() + 1);
   }
 
-  // Add cells to grid
+  // Add cells to grid (grid-auto-flow: column will create week columns automatically)
   heatmapGrid.innerHTML = '';
   cells.forEach(cell => heatmapGrid.appendChild(cell));
 
