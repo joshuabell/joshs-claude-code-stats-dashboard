@@ -233,10 +233,34 @@
   },
   {
     "date": "2025-11-03",
-    "totalCost": 4.31459515,
-    "totalTokens": 5314608,
-    "inputTokens": 41428,
-    "outputTokens": 23577,
-    "cacheTokens": 669765
+    "totalCost": 4.567229649999999,
+    "totalTokens": 5602177,
+    "inputTokens": 42623,
+    "outputTokens": 25409,
+    "cacheTokens": 710047
+  },
+  {
+    "date": "2025-11-04",
+    "totalCost": 2.920538199999999,
+    "totalTokens": 2972891,
+    "inputTokens": 27801,
+    "outputTokens": 26043,
+    "cacheTokens": 464978
+  },
+  {
+    "date": "2025-11-05",
+    "totalCost": 5.566727099999998,
+    "totalTokens": 6802782,
+    "inputTokens": 51695,
+    "outputTokens": 51686,
+    "cacheTokens": 915792
+  },
+  {
+    "date": "2025-11-06",
+    "totalCost": 26.17819320000001,
+    "totalTokens": 39946796,
+    "inputTokens": 75977,
+    "outputTokens": 201070,
+    "cacheTokens": 3336052
   }
 ]

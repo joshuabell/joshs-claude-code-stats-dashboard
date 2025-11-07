@@ -1,45 +1,45 @@
 {
   "lifetime": {
-    "totalCost": 201.62302075000002,
-    "totalTokens": 271652765,
-    "averageCost": 6.720767358333334,
-    "averageTokens": 9055092.166666666,
-    "dayCount": 30
+    "totalCost": 236.54111375000005,
+    "totalTokens": 321662803,
+    "averageCost": 7.16791253787879,
+    "averageTokens": 9747357.666666666,
+    "dayCount": 33
   },
   "yearly": {
-    "totalCost": 201.62302075000002,
-    "totalTokens": 271652765,
-    "averageCost": 6.720767358333334,
-    "averageTokens": 9055092.166666666,
-    "dayCount": 30
+    "totalCost": 236.54111375000005,
+    "totalTokens": 321662803,
+    "averageCost": 7.16791253787879,
+    "averageTokens": 9747357.666666666,
+    "dayCount": 33
   },
   "monthly": {
-    "totalCost": 5.06320725,
-    "totalTokens": 5771304,
-    "averageCost": 2.531603625,
-    "averageTokens": 2885652,
-    "dayCount": 2
+    "totalCost": 39.981300250000004,
+    "totalTokens": 55781342,
+    "averageCost": 7.996260050000001,
+    "averageTokens": 11156268.4,
+    "dayCount": 5
   },
   "weekly": {
-    "totalCost": 4.31459515,
-    "totalTokens": 5314608,
-    "averageCost": 4.31459515,
-    "averageTokens": 5314608,
-    "dayCount": 1
+    "totalCost": 39.23268815,
+    "totalTokens": 55324646,
+    "averageCost": 9.8081720375,
+    "averageTokens": 13831161.5,
+    "dayCount": 4
   },
   "daily": {
-    "totalCost": 7.758952485714284,
-    "totalTokens": 11571269.285714285
+    "totalCost": 8.659829921428571,
+    "totalTokens": 11907970
   },
   "highest": {
     "day": {
-      "totalCost": 20.771319799999983,
-      "totalTokens": 37986491,
-      "date": "2025-10-30"
+      "totalCost": 26.17819320000001,
+      "totalTokens": 39946796,
+      "date": "2025-11-06"
     },
     "week": {
-      "totalCost": 54.31266739999999,
-      "totalTokens": 80998885
+      "totalCost": 54.56530189999999,
+      "totalTokens": 81286454
     },
     "month": {
       "totalCost": 185.45471185,
@@ -47,8 +47,8 @@
     }
   },
   "streaks": {
-    "currentStreak": 8,
-    "longestStreak": 8
+    "currentStreak": 11,
+    "longestStreak": 11
   },
-  "lastUpdated": "2025-11-04T04:17:10.337Z"
+  "lastUpdated": "2025-11-07T04:21:17.284Z"
 }
