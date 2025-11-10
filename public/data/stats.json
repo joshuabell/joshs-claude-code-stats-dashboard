@@ -1,54 +1,54 @@
 {
   "lifetime": {
-    "totalCost": 236.54111375000005,
-    "totalTokens": 321662803,
-    "averageCost": 7.16791253787879,
-    "averageTokens": 9747357.666666666,
-    "dayCount": 33
+    "totalCost": 391.60821875,
+    "totalTokens": 553878258,
+    "averageCost": 10.584005912162162,
+    "averageTokens": 14969682.64864865,
+    "dayCount": 37
   },
   "yearly": {
-    "totalCost": 236.54111375000005,
-    "totalTokens": 321662803,
-    "averageCost": 7.16791253787879,
-    "averageTokens": 9747357.666666666,
-    "dayCount": 33
+    "totalCost": 391.60821875,
+    "totalTokens": 553878258,
+    "averageCost": 10.584005912162162,
+    "averageTokens": 14969682.64864865,
+    "dayCount": 37
   },
   "monthly": {
-    "totalCost": 39.981300250000004,
-    "totalTokens": 55781342,
-    "averageCost": 7.996260050000001,
-    "averageTokens": 11156268.4,
-    "dayCount": 5
+    "totalCost": 195.04840524999994,
+    "totalTokens": 287996797,
+    "averageCost": 21.67204502777777,
+    "averageTokens": 31999644.111111112,
+    "dayCount": 9
   },
   "weekly": {
-    "totalCost": 39.23268815,
-    "totalTokens": 55324646,
-    "averageCost": 9.8081720375,
-    "averageTokens": 13831161.5,
-    "dayCount": 4
+    "totalCost": 15.69945784999998,
+    "totalTokens": 23196791,
+    "averageCost": 15.69945784999998,
+    "averageTokens": 23196791,
+    "dayCount": 1
   },
   "daily": {
-    "totalCost": 8.659829921428571,
-    "totalTokens": 11907970
+    "totalCost": 27.10465192857142,
+    "totalTokens": 40276846.28571428
   },
   "highest": {
     "day": {
-      "totalCost": 26.17819320000001,
-      "totalTokens": 39946796,
-      "date": "2025-11-06"
+      "totalCost": 81.26381019999997,
+      "totalTokens": 113320977,
+      "date": "2025-11-09"
     },
     "week": {
-      "totalCost": 54.56530189999999,
-      "totalTokens": 81286454
+      "totalCost": 189.73256349999994,
+      "totalTokens": 281937924
     },
     "month": {
-      "totalCost": 185.45471185,
-      "totalTokens": 250068119
+      "totalCost": 195.04840524999994,
+      "totalTokens": 287996797
     }
   },
   "streaks": {
-    "currentStreak": 11,
-    "longestStreak": 11
+    "currentStreak": 15,
+    "longestStreak": 15
   },
-  "lastUpdated": "2025-11-07T04:21:17.284Z"
+  "lastUpdated": "2025-11-10T15:42:14.234Z"
 }
