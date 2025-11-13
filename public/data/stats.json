@@ -1,35 +1,35 @@
 {
   "lifetime": {
-    "totalCost": 474.2845724999999,
-    "totalTokens": 689009430,
-    "averageCost": 12.481172960526314,
-    "averageTokens": 18131827.10526316,
-    "dayCount": 38
+    "totalCost": 522.8164702,
+    "totalTokens": 763372877,
+    "averageCost": 13.405550517948718,
+    "averageTokens": 19573663.512820512,
+    "dayCount": 39
   },
   "yearly": {
-    "totalCost": 474.2845724999999,
-    "totalTokens": 689009430,
-    "averageCost": 12.481172960526314,
-    "averageTokens": 18131827.10526316,
-    "dayCount": 38
+    "totalCost": 522.8164702,
+    "totalTokens": 763372877,
+    "averageCost": 13.405550517948718,
+    "averageTokens": 19573663.512820512,
+    "dayCount": 39
   },
   "monthly": {
-    "totalCost": 287.4143059999999,
-    "totalTokens": 433514087,
-    "averageCost": 28.74143059999999,
-    "averageTokens": 43351408.7,
-    "dayCount": 10
+    "totalCost": 335.9462037,
+    "totalTokens": 507877534,
+    "averageCost": 30.540563972727274,
+    "averageTokens": 46170684.90909091,
+    "dayCount": 11
   },
   "weekly": {
-    "totalCost": 108.06535859999993,
-    "totalTokens": 168714081,
-    "averageCost": 54.03267929999996,
-    "averageTokens": 84357040.5,
-    "dayCount": 2
+    "totalCost": 156.59725630000003,
+    "totalTokens": 243077528,
+    "averageCost": 52.199085433333344,
+    "averageTokens": 81025842.66666667,
+    "dayCount": 3
   },
   "daily": {
-    "totalCost": 39.8825608642857,
-    "totalTokens": 60640331.85714286
+    "totalCost": 46.02044237857143,
+    "totalTokens": 70291855.42857143
   },
   "highest": {
     "day": {
@@ -42,13 +42,13 @@
       "totalTokens": 365915007
     },
     "month": {
-      "totalCost": 287.4143059999999,
-      "totalTokens": 433514087
+      "totalCost": 335.9462037,
+      "totalTokens": 507877534
     }
   },
   "streaks": {
-    "currentStreak": 16,
-    "longestStreak": 16
+    "currentStreak": 17,
+    "longestStreak": 17
   },
-  "lastUpdated": "2025-11-12T03:53:14.522Z"
+  "lastUpdated": "2025-11-13T03:54:33.882Z"
 }
