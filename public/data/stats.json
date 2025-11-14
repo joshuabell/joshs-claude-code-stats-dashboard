@@ -1,35 +1,35 @@
 {
   "lifetime": {
-    "totalCost": 522.8164702,
-    "totalTokens": 763372877,
-    "averageCost": 13.405550517948718,
-    "averageTokens": 19573663.512820512,
-    "dayCount": 39
+    "totalCost": 569.8990173000001,
+    "totalTokens": 846145544,
+    "averageCost": 14.247475432500002,
+    "averageTokens": 21153638.6,
+    "dayCount": 40
   },
   "yearly": {
-    "totalCost": 522.8164702,
-    "totalTokens": 763372877,
-    "averageCost": 13.405550517948718,
-    "averageTokens": 19573663.512820512,
-    "dayCount": 39
+    "totalCost": 569.8990173000001,
+    "totalTokens": 846145544,
+    "averageCost": 14.247475432500002,
+    "averageTokens": 21153638.6,
+    "dayCount": 40
   },
   "monthly": {
-    "totalCost": 335.9462037,
-    "totalTokens": 507877534,
-    "averageCost": 30.540563972727274,
-    "averageTokens": 46170684.90909091,
-    "dayCount": 11
+    "totalCost": 383.0287508,
+    "totalTokens": 590650201,
+    "averageCost": 31.919062566666668,
+    "averageTokens": 49220850.083333336,
+    "dayCount": 12
   },
   "weekly": {
-    "totalCost": 156.59725630000003,
-    "totalTokens": 243077528,
-    "averageCost": 52.199085433333344,
-    "averageTokens": 81025842.66666667,
-    "dayCount": 3
+    "totalCost": 203.67980340000003,
+    "totalTokens": 325850195,
+    "averageCost": 50.919950850000006,
+    "averageTokens": 81462548.75,
+    "dayCount": 4
   },
   "daily": {
-    "totalCost": 46.02044237857143,
-    "totalTokens": 70291855.42857143
+    "totalCost": 48.883748028571425,
+    "totalTokens": 76252031.85714285
   },
   "highest": {
     "day": {
@@ -42,13 +42,13 @@
       "totalTokens": 365915007
     },
     "month": {
-      "totalCost": 335.9462037,
-      "totalTokens": 507877534
+      "totalCost": 383.0287508,
+      "totalTokens": 590650201
     }
   },
   "streaks": {
-    "currentStreak": 17,
-    "longestStreak": 17
+    "currentStreak": 18,
+    "longestStreak": 18
   },
-  "lastUpdated": "2025-11-13T03:54:33.882Z"
+  "lastUpdated": "2025-11-14T07:14:12.669Z"
 }
