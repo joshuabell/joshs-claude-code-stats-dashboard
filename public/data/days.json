@@ -313,10 +313,18 @@
   },
   {
     "date": "2025-11-13",
-    "totalCost": 44.629580450000006,
-    "totalTokens": 79383193,
-    "inputTokens": 380021,
-    "outputTokens": 595580,
-    "cacheTokens": 4844939
+    "totalCost": 45.020404100000015,
+    "totalTokens": 79801533,
+    "inputTokens": 384658,
+    "outputTokens": 601318,
+    "cacheTokens": 4893766
+  },
+  {
+    "date": "2025-11-14",
+    "totalCost": 16.488120999999982,
+    "totalTokens": 19827303,
+    "inputTokens": 38894,
+    "outputTokens": 242125,
+    "cacheTokens": 2056424
   }
 ]
