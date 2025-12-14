@@ -1,23 +1,23 @@
 {
   "lifetime": {
-    "totalCost": 990.4973409500001,
-    "totalTokens": 1216779691,
-    "averageCost": 13.950666773943663,
-    "averageTokens": 17137742.126760565,
+    "totalCost": 998.9827028,
+    "totalTokens": 1221362717,
+    "averageCost": 14.070178912676056,
+    "averageTokens": 17202291.788732395,
     "dayCount": 71
   },
   "yearly": {
-    "totalCost": 990.4973409500001,
-    "totalTokens": 1216779691,
-    "averageCost": 13.950666773943663,
-    "averageTokens": 17137742.126760565,
+    "totalCost": 998.9827028,
+    "totalTokens": 1221362717,
+    "averageCost": 14.070178912676056,
+    "averageTokens": 17202291.788732395,
     "dayCount": 71
   },
   "monthly": {
-    "totalCost": 265.8302142,
-    "totalTokens": 204340559,
-    "averageCost": 20.448478015384616,
-    "averageTokens": 15718504.538461538,
+    "totalCost": 274.98726165000005,
+    "totalTokens": 209762342,
+    "averageCost": 21.152866280769235,
+    "averageTokens": 16135564.76923077,
     "dayCount": 13
   },
   "weekly": {
@@ -28,8 +28,8 @@
     "dayCount": 0
   },
   "daily": {
-    "totalCost": 23.012915535714285,
-    "totalTokens": 16410331.57142857
+    "totalCost": 24.321065171428568,
+    "totalTokens": 17184872
   },
   "highest": {
     "day": {
@@ -42,13 +42,13 @@
       "totalTokens": 363096780
     },
     "month": {
-      "totalCost": 537.79686025,
-      "totalTokens": 756943789
+      "totalCost": 537.1251746500001,
+      "totalTokens": 756105032
     }
   },
   "streaks": {
     "currentStreak": 49,
     "longestStreak": 49
   },
-  "lastUpdated": "2025-12-14T13:59:39.157Z"
+  "lastUpdated": "2025-12-14T18:25:18.793Z"
 }
