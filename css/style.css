@@ -80,20 +80,20 @@ header {
   font-family: monospace;
 }
 
-.header-info {
+.header-brand {
   flex: 1;
   min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
-.header-info h1 {
-  font-size: 1.5rem;
-  color: var(--text-primary);
-  margin-bottom: 0.25rem;
-}
-
-.bio {
-  color: var(--text-secondary);
+.header-subtitle {
   font-size: 0.9rem;
+  color: var(--text-secondary);
+  letter-spacing: 0.15em;
+  margin: 0;
+  padding-left: 2px;
 }
 
 .theme-toggle {
@@ -415,25 +415,7 @@ section {
   border-color: var(--accent);
 }
 
-.heatmap-cell.level-0 {
-  background: var(--bg-secondary);
-}
-
-.heatmap-cell.level-1 {
-  background: color-mix(in srgb, var(--accent) 20%, var(--bg-secondary));
-}
-
-.heatmap-cell.level-2 {
-  background: color-mix(in srgb, var(--accent) 40%, var(--bg-secondary));
-}
-
-.heatmap-cell.level-3 {
-  background: color-mix(in srgb, var(--accent) 60%, var(--bg-secondary));
-}
-
-.heatmap-cell.level-4 {
-  background: var(--accent);
-}
+/* Background color set dynamically via inline style using color-mix() */
 
 .heatmap-tooltip {
   position: absolute;
@@ -620,6 +602,10 @@ footer {
     font-size: 0.35rem;
   }
 
+  .header-subtitle {
+    font-size: 0.75rem;
+  }
+
   .stats-grid {
     grid-template-columns: 1fr;
   }
@@ -637,7 +623,12 @@ footer {
 
 @media (max-width: 480px) {
   .ascii-logo {
-    display: none;
+    font-size: 0.25rem;
+  }
+
+  .header-subtitle {
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
   }
 
   .section-header {
