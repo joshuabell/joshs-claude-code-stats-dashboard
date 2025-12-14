@@ -1,3 +1,7 @@
+# The good stuff
+.claude/
+.maestro/
+
 # Dependencies
 node_modules/
 package-lock.json

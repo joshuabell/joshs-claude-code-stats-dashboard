@@ -203,18 +203,65 @@ function populateStats(stats) {
     : 'Never updated';
 }
 
+// Pagination state
+let activityCurrentPage = 1;
+const activityPageSize = 10;
+let activityDaysData = [];
+
 function populateActivity(days) {
   const activityContainer = document.getElementById('recentActivity');
+  const prevBtn = document.getElementById('prevPage');
+  const nextBtn = document.getElementById('nextPage');
+  const pageInfo = document.getElementById('pageInfo');
 
   if (!days || days.length === 0) {
     activityContainer.innerHTML = '<div class="loading">No activity data available. Upload your first report!</div>';
+    prevBtn.style.display = 'none';
+    nextBtn.style.display = 'none';
+    pageInfo.style.display = 'none';
     return;
   }
 
-  // Show last 10 days
-  const recentDays = days.slice(-10).reverse();
+  // Store days data for pagination (reversed so most recent is first)
+  activityDaysData = days.slice().reverse();
+  activityCurrentPage = 1;
 
-  activityContainer.innerHTML = recentDays.map(day => `
+  // Set up pagination controls
+  prevBtn.addEventListener('click', () => {
+    if (activityCurrentPage > 1) {
+      activityCurrentPage--;
+      renderActivityPage();
+    }
+  });
+
+  nextBtn.addEventListener('click', () => {
+    const totalPages = Math.ceil(activityDaysData.length / activityPageSize);
+    if (activityCurrentPage < totalPages) {
+      activityCurrentPage++;
+      renderActivityPage();
+    }
+  });
+
+  renderActivityPage();
+}
+
+function renderActivityPage() {
+  const activityContainer = document.getElementById('recentActivity');
+  const prevBtn = document.getElementById('prevPage');
+  const nextBtn = document.getElementById('nextPage');
+  const pageInfo = document.getElementById('pageInfo');
+
+  const totalPages = Math.ceil(activityDaysData.length / activityPageSize);
+  const startIndex = (activityCurrentPage - 1) * activityPageSize;
+  const endIndex = startIndex + activityPageSize;
+  const pageDays = activityDaysData.slice(startIndex, endIndex);
+
+  // Update pagination controls
+  prevBtn.disabled = activityCurrentPage === 1;
+  nextBtn.disabled = activityCurrentPage === totalPages;
+  pageInfo.textContent = `Page ${activityCurrentPage} of ${totalPages}`;
+
+  activityContainer.innerHTML = pageDays.map(day => `
     <div class="activity-item">
       <div class="activity-date">${formatDate(day.date)}</div>
       <div class="activity-stats">
